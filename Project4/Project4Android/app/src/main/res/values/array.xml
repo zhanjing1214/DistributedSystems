@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>HKD</item>
+    </string-array>
+</resources>
